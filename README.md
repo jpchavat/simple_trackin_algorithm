@@ -11,4 +11,4 @@ It makes use of OpenCV methods Gaussian blur and simple blob detection.
 
 Video demostration:
 
-![](https://github.com/jpchavat/simple_tracking_algorithm/blob/master/doc/images/video_demo.png)
+[![](https://github.com/jpchavat/simple_tracking_algorithm/blob/master/doc/images/video_demo.png)](https://youtu.be/Baz3H-SyI8s)
