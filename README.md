@@ -7,5 +7,6 @@ It makes use of OpenCV methods Gaussian blur and simple blob detection.
 
 ## Demo
 
-![Demo picture](\doc\images\demo.png)
-[Demo video](https://youtu.be/Baz3H-SyI8s)
+![](\doc\images\demo.png)
+
+![](\doc\images\video_demo.png)
